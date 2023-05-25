@@ -1,0 +1,105 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f4;
+  color: #333;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background-color: #14213d;
+  padding: 20px;
+  text-align: center;
+  height: 20px;
+}
+
+h1 {
+  font-size: 28px;
+  margin: 0;
+  color: #e5e5e5;
+}
+
+main {
+  max-width: 960px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+section {
+  background-color: #fff;
+  padding: 20px;
+  margin-bottom: 30px;
+  border-radius: 5px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+h2 {
+  color: #003566;
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+
+h3 {
+  color: #003566;
+  margin-bottom: 10px;
+  font-size: 16px;
+}
+
+p {
+  font-size: 16px;
+  line-height: 1.5;
+  margin: 0;
+  color: #000814
+}
+
+ul, ol {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  margin-bottom: 10px;
+  color: #000814
+}
+
+ul li {
+  margin-bottom: 10px;
+}
+
+footer {
+  text-align: center; 
+}
+
+.bold-text{
+  font-weight: bold; 
+}
+
+.img-border{
+  border-radius: 100px; 
+}
+
+.fav-color {
+  color: #001d3d
+}
+
+a:link {
+  color: #03a9f4;
+  text-decoration: none;
+}
+
+a:visited {
+  color: red;
+}
+
+a:hover {
+  text-decoration: underline;
+  color: blue;
+}
+
+a:active {
+  color: purple;
+}
+
+
+
+.highlight {
+  background-color: #ffd700;
+  padding: 2px 4px
